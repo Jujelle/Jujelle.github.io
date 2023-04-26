@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yixuan Li / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yixuan Li"
+description              : &description "a junior in Zhejiang University"
 url                      : https://jujelle.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jujelle/jujelle.github.io"
+repository               : "Jujelle/Jujelle.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
