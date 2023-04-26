@@ -12,8 +12,6 @@ I'm a junior student from School of ECE, Zhejiang University. My research intere
 
 I received the National Scholarship twice, and have won the 2nd place in the ICRA2022 General Place Recognition Competition. For more information, you can find my resume here: [Yixuan Li's Resume](../assets/Yixuan_Li.pdf).
 
-[Email](mailto:yixuanli@zju.edu.cn) / [Github](https://github.com/Jujelle)
-
 # Publications
 
 - Y. Li, S. Zheng, Z. Yu, B. Yu, S.-Y. Cao, L. Luo, and H.-L. Shen, “I2p-rec: Recognizing images on large-scale point cloud maps through bird’s eye view projections,” arXiv preprint arXiv:2303.01043, 2023. (Submitted to IROS, International Conference on Intelligent Robots and Systems 2023) [BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images](https://doi.org/10.48550/arXiv.2302.14325)
