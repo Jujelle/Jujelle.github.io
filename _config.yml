@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "LI, Yixuan 李奕萱"
-  avatar           : "/image/lyx-profile-compressed.JPG"
+  avatar           : "/images/lyx-profile-compressed.png"
   bio              : "Computer vision, Robotics, Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
