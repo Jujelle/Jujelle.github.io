@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "LI, Yixuan 李奕萱"
-  avatar           : "lyx2.png"
+  avatar           : "lyx-profile.png"
   bio              : "Computer vision, robotics, autonomous vehicle, Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "yixuanli@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
