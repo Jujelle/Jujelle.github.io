@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year undergraduate student from School of ECE, Zhejiang University. My research interest includes computer vision, robotics, deep learning and optoelectronics. 
+I'm a junior student from School of ECE, Zhejiang University. My research interest includes computer vision, robotics, deep learning and optoelectronics. 
 
 I received the National Scholarship twice, and have won the 2nd place in the ICRA2022 General Place Recognition Competition. For more information, you can find my resume here: [Yixuan Li's Resume](../assets/Yixuan_Li.pdf).
 
