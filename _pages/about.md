@@ -29,7 +29,7 @@ I received the National Scholarship twice, and have won the 2nd place in the ICR
 - ICRA2022 General -->
 
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jujelle&label=Profile%20views&color=ce9927&style=flat" alt="Jujelle" /> </p> -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jujelle&label=Profile%20views&color=ce9927&style=flat" alt="Jujelle" /> </p>
 
 
 <!-- Example: editing a markdown file for a talk -->
