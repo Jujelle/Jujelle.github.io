@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-#   google_analytics : G-K89B24PDX7
+  google_analytics : G-K89B24PDX7
 # Reading Files
 include:
   - .htaccess
