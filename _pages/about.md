@@ -18,7 +18,9 @@ I received the National Scholarship twice, and have won the 2nd place in the ICR
 
 ## Demo of I2P-Rec
 <!-- ![image](https://github.com/Jujelle/Jujelle.github.io/tree/master/images/demo.gif) -->
-![gif-failed-to-render](https://share.getcloudapp.com/yAu92GKP?collection_id=aDfkpnd)
+<!-- ![gif-failed-to-render](https://share.getcloudapp.com/yAu92GKP?collection_id=aDfkpnd) -->
+![gif-failed-to-render](../images/demo.gif)
+
 
 <!-- # Honors and Awards
 - Member of Zhejiang University Morningside Cultural China Scholars Program (30 member school-wide each year)
