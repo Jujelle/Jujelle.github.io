@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a rising fourth-year student from the School of ECE, Zhejiang University. My research interests include nanophotonics, quantum optics and optical computing. I was advised by Professor Haoliang Qian(https://scholar.google.com/citations?hl=zh-CN&user=9atjlF8AAAAJ) in the field of optical signal processing from May 2022 to December 2022.
+I'm a rising fourth-year student from the School of ECE, Zhejiang University. My research interests include nanophotonics, quantum optics and optical computing. I was advised by Professor Haoliang Qian (https://scholar.google.com/citations?hl=zh-CN&user=9atjlF8AAAAJ) in the field of optical signal processing from May 2022 to December 2022.
 
 My previous interest lies in robotics and computer vision, and I have won the 2nd place in the General Place Recognition Competition held by ICRA 2022 and CMU Robotics Institute in October 2022. I spent a wonderful time working with Dr. Lun Luo focusing on the localization problem in autonomous driving from June 2022 to March 2023.
 
