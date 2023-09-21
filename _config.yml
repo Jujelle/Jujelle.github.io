@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yixuan Li / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yixuan Li"
-description              : &description "a junior in Zhejiang University"
+description              : &description "An Undergrad in Zhejiang University"
 url                      : https://jujelle.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jujelle/Jujelle.github.io"
