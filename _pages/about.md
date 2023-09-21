@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a junior student from School of ECE, Zhejiang University. My research interest includes robotics, computer vision and deep learning. 
+I'm a rising fourth-year student from the School of ECE, Zhejiang University. My research interests include nanophotonics, quantum optics and optical computing. I was advised by Professor Haoliang Qian(https://scholar.google.com/citations?hl=zh-CN&user=9atjlF8AAAAJ) in the field of optical signal processing from May 2022 to December 2022.
 
-I received the National Scholarship twice, and have won the 2nd place in the ICRA2022 General Place Recognition Competition. For more information, you can find my resume here: [Yixuan Li's Resume](../assets/Yixuan_Li.pdf).
+My previous interest lies in robotics and computer vision, and I have won the 2nd place in the General Place Recognition Competition held by ICRA 2022 and CMU Robotics Institute in October 2022. I spent a wonderful time working with Dr. Lun Luo focusing on the localization problem in autonomous driving from June 2022 to March 2023.
+
+I received the National Scholarship twice, and I'm in the Zhejiang University Morningside Cultural China Scholars Program (selected 30 out of 5,000 students each year). For more information, you can find my resume here: [Yixuan Li's Resume](../assets/Yixuan_Li.pdf).
 
 # Publications
 - Y. Li, S. Zheng, Z. Yu, B. Yu, S.-Y. Cao, L. Luo, and H.-L. Shen, “I2p-rec: Recognizing images on large-scale point cloud maps through bird’s eye view projections,” arXiv preprint arXiv:2303.01043, 2023. (Accepted to IROS 2023) [I2P-Rec: Recognizing Images on Large-scale Point Cloud Maps through Bird's Eye View Projections](https://doi.org/10.48550/arXiv.2303.01043) 
@@ -22,6 +24,8 @@ I received the National Scholarship twice, and have won the 2nd place in the ICR
 <!-- ![failed-to-render-gif](../images/demo.gif) -->
 <img src="../images/demo.gif" alt="demo">
 
+# Miscellaneous
+I am also a fan of photography and classical music.
 
 <!-- # Honors and Awards
 - Member of Zhejiang University Morningside Cultural China Scholars Program (30 member school-wide each year)
