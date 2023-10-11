@@ -25,7 +25,7 @@ I received the National Scholarship twice, and I'm in the Zhejiang University Mo
 <img src="../images/demo.gif" alt="demo">
 
 # Miscellaneous
-I am also a fan of photography and classical music.
+I am also a fan (but an amateur) of photography and classical music.
 
 <!-- # Honors and Awards
 - Member of Zhejiang University Morningside Cultural China Scholars Program (30 member school-wide each year)
