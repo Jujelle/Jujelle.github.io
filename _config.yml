@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "LI, Yixuan 李奕萱"
-  avatar           : "lyx-profile-head.png"
+  avatar           : "lyx_profile_ford_museum.jpg" # linking to profile photos
   bio              : "Undergraduate Student, Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
