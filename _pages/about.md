@@ -34,7 +34,7 @@ I am also very interested (but an amateur) in photography and classical music.
 
 <!-- A profile viewer, but only from github entrance -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jujelle&label=Profile%20views&color=red&style=flat&base=112" alt="Jujelle" /> </p> 
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jujelle&label=Profile%20views&color=red&style=flat&base=112" alt="Jujelle" /> </p> -->
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jujelle&label=Profile%20views&color=ce9927&style=flat" alt="Jujelle" /> </p> -->
 
