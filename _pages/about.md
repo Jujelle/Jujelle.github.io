@@ -10,7 +10,7 @@ redirect_from:
 
 I’m a senior at the School of Electronic Engineering, Zhejiang University. My research interests include nanophotonics, quantum optics, and optical computing. I spent a wonderful time working with Professor [Haoliang Qian](https://scholar.google.com/citations?hl=zh-CN&user=9atjlF8AAAAJ) on several projects of nanophotonics and optical signal processing from May 2022 to December 2022.
 
-My previous interest lies in computer vision and robotics. I won 2nd place in the General Place Recognition Competition held by ICRA 2022 and CMU Robotics Institute in October 2022. I collaborated with Dr. Lun Luo, focusing on the localization problem in autonomous driving from June 2022 to March 2023.
+My previous interest lies in computer vision and robotics. I won 2nd place in the General Place Recognition Competition held by ICRA 2022 and CMU Robotics Institute in October 2022. I collaborated with Dr. Lun Luo under Professor [Hui-liang Shen's](https://scholar.google.com/citations?hl=zh-CN&user=qfAg9nUAAAAJ) supervision, focusing on the localization problem in autonomous driving from June 2022 to March 2023.
 
 I received the National Scholarship twice and am in the Zhejiang University [Morningside Cultural China Scholars Program](https://drive.google.com/file/d/1dP1bt8tOke6_sHpsFEH9d8xUUJyZnea6/view?usp=drive_link) (selected 30 out of 5,000 students each year). You can find my resume here: [Yixuan Li’s Resume](../assets/Yixuan_Li.pdf).
 
