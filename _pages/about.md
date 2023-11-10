@@ -10,15 +10,15 @@ redirect_from:
 
 I’m a senior at the School of Electronic Engineering, Zhejiang University. My research interests include nanophotonics, quantum optics, and optical computing. I spent a wonderful time working with Professor [Haoliang Qian](https://scholar.google.com/citations?hl=zh-CN&user=9atjlF8AAAAJ) on several projects of nanophotonics and optical signal processing from May 2022 to December 2022.
 
-My previous interest lies in computer vision and robotics. I won 2nd place in the General Place Recognition Competition held by ICRA 2022 and CMU Robotics Institute in October 2022. I collaborated with Dr. Lun Luo under Professor [Hui-liang Shen's](https://scholar.google.com/citations?hl=zh-CN&user=qfAg9nUAAAAJ) supervision, focusing on the localization problem in autonomous driving from June 2022 to March 2023.
+My previous interest lies in computer vision and robotics. I won 2nd place in the General Place Recognition Competition held by ICRA 2022 and CMU Robotics Institute in October 2022. I collaborated with Dr. Lun Luo on the localization problem in autonomous driving from June 2022 to March 2023.
 
 I received the National Scholarship (0.2% nationwide) twice and am in the Zhejiang University [Morningside Cultural China Scholars Program](https://drive.google.com/file/d/1DXaS8qfygF_hEL96wzMXTAsjxo1aShGV/view?usp=drive_link) (selected 30 out of 5,000 students each year). We visited 50+ guests from academic, political and business sectors during the summer of 2023, including the presidents of MIT, Harvard, Yale, and the America Academy of Arts and Sciences (AAAS). 
 
 You can find my resume here: [Yixuan Li’s Resume](../assets/Yixuan_Li.pdf).
 
 # Publications
-- Y. Li, S. Zheng, Z. Yu, B. Yu, S.-Y. Cao, L. Luo, and H.-L. Shen, “I2p-rec: Recognizing images on large-scale point cloud maps through bird’s eye view projections,” arXiv preprint arXiv:2303.01043, 2023. (Accepted to IROS 2023) [I2P-Rec: Recognizing Images on Large-scale Point Cloud Maps through Bird’s Eye View Projections](https://doi.org/10.48550/arXiv.2303.01043) 
-- L. Luo, S. Zheng, Y. Li, Y. Fa, B. Yu, S. Cao, and H. Shen, “Bevplace: Learning lidar-based place recognition using bird’s eye view images,” arXiv preprint arXiv:2302.14325, 2023. (Accepted to ICCV 2023) [BEVPlace: Learning LiDAR-based Place Recognition using Bird’s Eye View Images](https://doi.org/10.48550/arXiv.2302.14325)
+- **Y. Li**, S. Zheng, Z. Yu, B. Yu, S.-Y. Cao, L. Luo, and H.-L. Shen, “I2p-rec: Recognizing images on large-scale point cloud maps through bird’s eye view projections,” arXiv preprint arXiv:2303.01043, 2023. (Accepted to IROS 2023) [I2P-Rec: Recognizing Images on Large-scale Point Cloud Maps through Bird’s Eye View Projections](https://doi.org/10.48550/arXiv.2303.01043) 
+- L. Luo, S. Zheng, **Y. Li**, Y. Fa, B. Yu, S. Cao, and H. Shen, “Bevplace: Learning lidar-based place recognition using bird’s eye view images,” arXiv preprint arXiv:2302.14325, 2023. (Accepted to ICCV 2023) [BEVPlace: Learning LiDAR-based Place Recognition using Bird’s Eye View Images](https://doi.org/10.48550/arXiv.2302.14325)
 
 ## Demo of I2P-Rec
 <!-- ![image](https://github.com/Jujelle/Jujelle.github.io/tree/master/images/demo.gif) -->
