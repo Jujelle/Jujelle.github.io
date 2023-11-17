@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a senior at the School of Electronic Engineering, Zhejiang University. My research interests include nanophotonics, quantum optics, and optical computing. I spent a wonderful time working with Professor [Haoliang Qian](https://scholar.google.com/citations?hl=zh-CN&user=9atjlF8AAAAJ) on several projects of nanophotonics and optical signal processing from May 2022 to December 2022.
+I’m a senior at the School of Electronic Engineering, Zhejiang University. My research interests include nanophotonics, quantum optics, and optical computing. I spent a wonderful time working with Professor [Haoliang Qian](https://scholar.google.com/citations?hl=zh-CN&user=9atjlF8AAAAJ) on several projects of nanophotonics and optical signal processing from February 2023 to July 2023.
 
 My previous interest lies in computer vision and robotics. I won 2nd place in the General Place Recognition Competition held by ICRA 2022 and CMU Robotics Institute in October 2022. I collaborated with Dr. Lun Luo on the localization problem in autonomous driving from June 2022 to March 2023.
 
