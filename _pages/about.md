@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I’m a senior at the School of Electronic Engineering, Zhejiang University. My primary research interests are nanophotonics and quantum optics. I hope my future research can contribute to the development of next-generation technologies, such as optical and quantum computing, and to provide benefits for applications such as bioimaging and communication. I spent a wonderful time working with Professor [Haoliang Qian](https://scholar.google.com/citations?hl=zh-CN&user=9atjlF8AAAAJ) on several projects of nanophotonics and optical signal processing from February 2023 to July 2023.
+I’m a senior at the School of Electronic Engineering, Zhejiang University. My primary research interests are nanophotonics and quantum optics. I hope my future research can contribute to the development of next-generation technologies, such as optical and quantum computing, and to provide benefits for applications such as bioimaging and communication. I spent a wonderful time working with Professor [Haoliang Qian](https://scholar.google.com/citations?hl=zh-CN&user=9atjlF8AAAAJ) on several projects of nanophotonics and optical signal processing from May 2022 to Dec 2022.
 
-My previous interest lies in computer vision and robotics. I won 2nd place in the General Place Recognition Competition held by ICRA 2022 and CMU Robotics Institute in October 2022. I collaborated with Dr. Lun Luo on the localization problem in autonomous driving from June 2022 to March 2023.
+My previous interests also include computer vision and robotics. I won 2nd place in the General Place Recognition Competition held by ICRA 2022 and CMU Robotics Institute in October 2022. I collaborated with Dr. Lun Luo on the localization problem in autonomous driving from June 2022 to March 2023.
 
 I received the National Scholarship (0.2% nationwide) twice and am in the Zhejiang University [Morningside Cultural China Scholars Program](https://drive.google.com/file/d/1DXaS8qfygF_hEL96wzMXTAsjxo1aShGV/view?usp=drive_link) (selected 30 out of 5,000 students each year). We visited 50+ guests from academic, political and business sectors during the summer of 2023, including the presidents of MIT, Harvard, Yale, and the America Academy of Arts and Sciences (AAAS). 
 
