@@ -27,7 +27,7 @@ You can find my resume here: [Yixuan Li’s Resume](../assets/Yixuan_Li.pdf).
 <img src="../images/demo.gif" alt="demo">
 
 # Miscellaneous
-Outside of school and research, you'll probably catch me reading or zooming around on an aimless walk. I am also very interested (but an amateur) in photography, cycling, and classical music. 
+Outside of school and research, you'll probably catch me reading or zooming around on an aimless walk. I’m a fan of Dostoevsky and Wang Xiaobo. I'm also very interested (but an amateur) in photography, cycling, and classical music. Peanut butter is my serious weakness. 
 
 <!-- # Honors and Awards
 - Member of Zhejiang University Morningside Cultural China Scholars Program (30 member school-wide each year)
