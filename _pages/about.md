@@ -18,10 +18,9 @@ You can find my resume here: [Yixuan Li’s Resume](../assets/Yixuan_Li.pdf).
 
 # Publications
 - S. Zheng\*, **Y. Li**\*, Z. Yu, B. Yu, S.-Y. Cao, L. Luo, and H.-L. Shen, “I2P-Rec: Recognizing Images on Large-Scale Point Cloud Maps through Bird’s-Eye View Projections,” 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), **Oral Presentation** [\[PDF\]](https://doi.org/10.48550/arXiv.2303.01043)
-  
-*These authors contributed equally to this work.
-
 - L. Luo, S. Zheng, **Y. Li**, Y. Fa, B. Yu, S. Cao, and H. Shen, “BEVPlace: Learning Lidar-Based Place Recognition Using Bird’s-Eye View Images,” 2023 IEEE/CVF International Conference on Computer Vision (**ICCV**) [\[PDF\]](https://doi.org/10.48550/arXiv.2302.14325)
+
+*These authors contributed equally to this work.
 
 ## Demo of I2P-Rec
 <!-- ![image](https://github.com/Jujelle/Jujelle.github.io/tree/master/images/demo.gif) -->
