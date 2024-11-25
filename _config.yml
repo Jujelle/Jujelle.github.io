@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yixuan Li / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yixuan Li"
-description              : &description "An Undergrad in Zhejiang University"
+description              : &description "First-year PhD student, UW Seattle"
 url                      : https://jujelle.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jujelle/Jujelle.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "LI, Yixuan 李奕萱"
   avatar           : "lyx-profile-harvard-lib.jpg" # linking to profile photos
-  bio              : "Undergraduate Student, Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "First-year PhD student, UW Seattle"
+  location         : "Seattle, WA, United States"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "yixuanli@zju.edu.cn"
+  email            : "imyixuan@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
