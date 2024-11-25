@@ -14,7 +14,7 @@ I spent a wonderful time working with Professor [Haoliang Qian](https://scholar.
 
 My previous interests also include computer vision and robotics. I won 2nd place in the General Place Recognition Competition held by ICRA 2022 and CMU Robotics Institute in October 2022. I collaborated with Dr. Lun Luo on the localization problem in autonomous driving from June 2022 to March 2023.
 
-I received the National Scholarship (0.2% nationwide) twice and am in the Zhejiang University [Morningside Cultural China Scholars Program](https://drive.google.com/file/d/1DXaS8qfygF_hEL96wzMXTAsjxo1aShGV/view?usp=drive_link). 
+I received the National Scholarship twice and am in the Zhejiang University [Morningside Cultural China Scholars Program](https://drive.google.com/file/d/1DXaS8qfygF_hEL96wzMXTAsjxo1aShGV/view?usp=drive_link). 
 
 You can find my resume here: [Yixuan Li’s Resume](../assets/Yixuan_Li.pdf).
 
